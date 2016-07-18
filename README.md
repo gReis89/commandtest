@@ -1,2 +1,2 @@
-# commantest
+# commandtest
 Hello world
